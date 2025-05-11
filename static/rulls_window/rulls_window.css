@@ -1,0 +1,21 @@
+body {
+    background-color: blue;
+    font-family: Verdana, sans-serif;
+}
+
+.rulls {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.button {
+    width: 20vw;
+    height: 8vh;
+    margin-left: 40vw;
+    margin-right: 40vw;
+    margin-bottom: 5vh;;
+    font-size: 40px;
+    text-align: center;
+}
