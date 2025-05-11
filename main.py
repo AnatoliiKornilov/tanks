@@ -11,7 +11,7 @@ def connectToDb():
 def createDb():
     connection = connectToDb()
     connection.execute("""
-    CREATE TABLE IF NOT EXIST leaderboard (
+    CREATE TABLE IF NOT EXISTS leaderboard (
         name TEXT,
         score INTEGER
         );
