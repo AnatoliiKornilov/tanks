@@ -1,0 +1,38 @@
+body {
+    background-image: url("../images/bricks.png");
+    margin: 0;
+    font-family: Verdana, sans-serif;
+}
+
+.main_window__title {
+    width: 100vw;
+    height: 10vh;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: darkgreen;
+    margin-top: 10vh;
+    margin-bottom: 0;
+    padding-top: 2vh;
+}
+
+.main_window__button_container {
+    width: 100vw;
+    height: 60vh;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main_window__button {
+    width: 20vw;
+    height: 10vh;
+    background-color: brown;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 20px;
+}

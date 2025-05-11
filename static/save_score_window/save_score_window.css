@@ -1,0 +1,54 @@
+body {
+    background-color: #C0C0C0;
+    margin: 0;
+    color: black;
+    font-family: Verdana, sans-serif;
+}
+
+.score {
+    width: 100vw;
+    height: 8vh;
+    background-color: gray;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10vh;
+    margin-bottom: 0;
+    padding-top: 2vh;
+}
+
+.saving_score_text {
+    width: 100vw;
+    height: 8vh;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 4vh;
+}
+
+.input_name_text {
+    width: 100vw;
+    height: 8vh;
+    font-size: 40px;
+    text-align: center;
+}
+
+.input_field {
+    width: 20vw;
+    height: 8vh;
+    margin-left: 40vw;
+    margin-right: 40vw;
+    margin-bottom: 10vh;;
+    font-size: 40px;
+    text-align: left;
+    border-radius: 20px;
+}
+
+.save_button {
+    width: 20vw;
+    height: 8vh;
+    margin-left: 40vw;
+    margin-right: 40vw;
+    margin-bottom: 5vh;;
+    font-size: 40px;
+    text-align: center;
+}
